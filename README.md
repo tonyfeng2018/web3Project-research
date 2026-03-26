@@ -1,4 +1,4 @@
-# OpenClaw Skills
+# web3Project-research Skills
 
 Web3 项目调研 Skill 合集，适用于 [OpenClaw](https://openclaw.ai) 智能助手。
 
